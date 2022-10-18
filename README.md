@@ -13,3 +13,7 @@
   - python3 ropsten.py
  
 - Now the app is up and running in your localhost, you can find it in: 127.0.0.1:5000
+
+
+### Developers
+## Fabricio Juarez
