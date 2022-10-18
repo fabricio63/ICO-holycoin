@@ -1,4 +1,4 @@
-# ICO-holycoin
+# ICO holycoin (HOC)
 
 ## What is it
 ### holycoin is a smart contract deployed in the goerli ethereum testnet and this is a local web server you can run in your computer to buy tokens of this contract
