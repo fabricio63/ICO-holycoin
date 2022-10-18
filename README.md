@@ -1,5 +1,8 @@
 # ICO-holycoin
 
+## What is it
+### holycoin is a smart contract deployed in the goerli ethereum testnet and this is a local web server you can run in your computer to buy tokens of this contract
+
 ## How to run
 - This app runs in python, you will need to install two dependencies with the following commands
 
